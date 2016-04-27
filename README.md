@@ -1,2 +1,2 @@
 # aryfm_game
-Arythmetic game
+Arythmetic game written on Python
